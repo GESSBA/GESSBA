@@ -5,9 +5,11 @@ font-family: arial;
 
 article{
   background-color: blue;
+  color: white;
   width: 30%;
   border-style: solid;
-  border-color: yellow;
+  border-color: blue;
   border-width: 2px;
-  padding: 3px;
+  padding: 5px;
+  float: left;
 } 
